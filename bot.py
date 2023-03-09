@@ -9,7 +9,7 @@ def start(update,context):
 
 
 if __name__ == "__main__":
-    updater = Updater(token = '5588711197:AAEVOHd8BAxkT64VPptEDG7OKCFZhBpvYxE',use_context= True)
+    updater = Updater(token = YOUR TOKEN,use_context= True)
     dp = updater.dispatcher
      
                     
